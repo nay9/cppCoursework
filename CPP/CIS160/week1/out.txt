@@ -1,0 +1,5 @@
+Age	Average Height	Average Height	Average Weight	Average Weight
+ 	for Men (in)	for Women (in)	for Men (lb)	for Women (lb)
+0-18		57.3333	54	108	103.5
+19-35		73	67.2	241	149
+36 and over 	69.6667	63.6	192	150
